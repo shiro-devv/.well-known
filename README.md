@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm [Your Name]
+# 👋 Hello, World! I'm Shiro
 
 > *"Code is poetry written for machines, but read by humans."*
 
