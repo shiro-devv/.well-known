@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm Shiro
+# 👋 Hello, World! I'm Shen
 
 > *"Code is poetry written for machines, but read by humans."*
 
@@ -6,28 +6,62 @@
 
 ## 🇵🇭 About Me
 
-Hey there! I'm a **2nd year Computer Science student** from the **Philippines**, passionate about building things with code and constantly leveling up my skills. Whether it's debugging a stubborn function at 2AM or exploring a new framework on a weekend, I'm always in the zone when it comes to programming.
+Hey there! I'm **Shen**, an **intermediate developer** and **2nd year Computer Science student** from **Vigan, Ilocos Sur, Philippines** 🇵🇭. Proficient in TypeScript and JavaScript, with skills across multiple languages and stacks.
 
-I consider myself an **intermediate programmer** — past the "Hello, World!" phase, but still hungry to learn and grow every single day.
+Whether it's debugging a stubborn function at 2AM or exploring a new framework on a weekend, I'm always in the zone when it comes to programming. I consider myself an **intermediate programmer** — past the "Hello, World!" phase, but still hungry to learn and grow every single day.
+
+📧 shen.does.dev@gmail.com | 🌐 [shiro-devv.github.io](https://shiro-devv.github.io)
 
 ---
 
 ## 🎓 Education
 
 - 🏫 **Degree:** Bachelor of Science in Computer Science (BSCS)
-- 📅 **Year Level:** 2nd Year (Sophomore)
-- 📍 **Location:** Philippines 🇵🇭
+- 🎓 **University:** University of the Northern Philippines
+- 📅 **Year Level:** 2nd Year (Sophomore) — 2024 to 2028
+- 📍 **Location:** Vigan, Ilocos Sur, Philippines 🇵🇭
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-### Languages
+### Languages & Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🐧 My Daily Driver — Arch Linux
+
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+
+I run **Arch Linux** as my primary operating system — by choice, not by accident. 😄
+
+Arch has taught me more about how computers actually work than any classroom ever could. From manually partitioning disks during installation to configuring the kernel and managing packages with `pacman`, every step of the way has been a hands-on deep dive into the internals of a real operating system.
+
+```bash
+$ neofetch
+OS:     Arch Linux x86_64
+Shell:  zsh
+DE/WM:  niri
+Term:   kitty
+Uptime: long enough to be proud of it 😤
+```
+
+**Why Arch?**
+- ⚡ **Bleeding-edge packages** — Always on the latest stable software via the official repos and AUR
+- 🧱 **Built from scratch** — No bloat, no unnecessary defaults; every package I have is one I chose
+- 📖 **The Arch Wiki** — Arguably the best Linux documentation on the internet; it's made me a better problem-solver
+- 🛠️ **Full control** — I manage my own `pacman.conf`, dotfiles, and system services
+- 🧠 **Forced to learn** — When something breaks, I fix it; no hand-holding means real understanding
+
+**My Arch Setup includes:**
+- Package manager: `pacman` + `yay` (AUR helper)
+- Init system: `systemd`
+- Dotfiles: [Dank Material Shell](https://github.com/AvengeMedia/DankMaterialShell)🔧
+
+---
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -41,16 +75,32 @@ I consider myself an **intermediate programmer** — past the "Hello, World!" ph
 - 🔐 Data Structures & Algorithms
 - ☁️ Cloud basics & DevOps fundamentals
 
+## 💼 Experience
+
+### 🤖 Leader / Head Developer — Robo Rangers *(2024)*
+> Vigan · Remote
+
+Led a team in building a **flood warning device** using Arduino. Handled both the technical and leadership sides of the project.
+
+- 🔧 Programmed the Arduino Uno for real-time flood detection
+- 👥 Led and coordinated the development team
+- 🥈 Achieved **2nd place** and received an **Environmental Friendly Award**
+
+*Tech used:* `Arduino`
+
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shiro-devv&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiro-devv&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiro-devv&theme=tokyonight" alt="Profile Details" />
 </p>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shiro-devv&theme=tokyonight" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shiro-devv&theme=tokyonight" alt="Most Commit Language" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shiro-devv&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shiro-devv&theme=tokyonight&utcOffset=8" alt="Productive Time" />
+</p>
 
 ---
 
@@ -72,8 +122,8 @@ Here are some things I've built or am currently working on:
 
 ```
 Year 1  ████████████████████  Core programming fundamentals ✅
-Year 2  ███████████░░░░░░░░░  Data structures and Algorithms, OOP, Web dev, App Dev 🔄 (in progress)
-Year 3  ░░░░░░░░░░░░░░░░░░░░  Systems, AI/ML 📅
+Year 2  ███████████░░░░░░░░░  Data structures, OOP, App dev, Computational Science 🔄 (in progress)
+Year 3  ░░░░░░░░░░░░░░░░░░░░  Algorithms, Systems, AI/ML 📅
 Year 4  ░░░░░░░░░░░░░░░░░░░░  Capstone, Specialization 📅
 ```
 
@@ -95,7 +145,8 @@ Year 4  ░░░░░░░░░░░░░░░░░░░░  Capstone, 
 I'm always open to collaborating, learning together, or just geeking out about tech!
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shiro-devv)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stephenllanes308@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github-pages&logoColor=white)](https://shiro-devv.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shen.does.dev@gmail.com)
 
 ---
 
