@@ -18,7 +18,7 @@ Whether it's debugging a stubborn function at 2AM or exploring a new framework o
 
 - 🏫 **Degree:** Bachelor of Science in Computer Science (BSCS)
 - 🎓 **University:** University of the Northern Philippines
-- 📅 **Year Level:** 2nd Year (Sophomore) — 2024 to 2028
+- 📅 **Year Level:** 3rd Year (Senior) — 2024 to 2028
 - 📍 **Location:** Vigan, Ilocos Sur, Philippines 🇵🇭
 
 ---
@@ -53,13 +53,12 @@ Uptime: long enough to be proud of it 😤
 - ⚡ **Bleeding-edge packages** — Always on the latest stable software via the official repos and AUR
 - 🧱 **Built from scratch** — No bloat, no unnecessary defaults; every package I have is one I chose
 - 📖 **The Arch Wiki** — Arguably the best Linux documentation on the internet; it's made me a better problem-solver
-- 🛠️ **Full control** — I manage my own `pacman.conf`, dotfiles, and system services
 - 🧠 **Forced to learn** — When something breaks, I fix it; no hand-holding means real understanding
 
 **My Arch Setup includes:**
 - Package manager: `pacman` + `yay` (AUR helper)
 - Init system: `systemd`
-- Dotfiles: [Dank Material Shell](https://github.com/AvengeMedia/DankMaterialShell)🔧
+- Dotfiles: [Hyde]([https://github.com/AvengeMedia/DankMaterialShell](https://hydeproject.pages.dev/))🔧
 
 ---
 
@@ -72,22 +71,8 @@ Uptime: long enough to be proud of it 😤
 ### Currently Learning
 - 🌐 Web Development (React / Node.js)
 - 🗃️ Database Management (SQL & NoSQL)
-- 🔐 Data Structures & Algorithms
 - ☁️ Cloud basics & DevOps fundamentals
-
-## 💼 Experience
-
-### 🤖 Leader / Head Developer — Robo Rangers *(2024)*
-> Vigan · Remote
-
-Led a team in building a **flood warning device** using Arduino. Handled both the technical and leadership sides of the project.
-
-- 🔧 Programmed the Arduino Uno for real-time flood detection
-- 👥 Led and coordinated the development team
-- 🥈 Achieved **2nd place** and received an **Environmental Friendly Award**
-
-*Tech used:* `Arduino`
-
+  
 ---
 
 <p align="center">
@@ -122,7 +107,7 @@ Here are some things I've built or am currently working on:
 
 ```
 Year 1  ████████████████████  Core programming fundamentals ✅
-Year 2  ███████████░░░░░░░░░  Data structures, OOP, App dev, Computational Science 🔄 (in progress)
+Year 2  ████████████████████  Data structures, OOP, App dev, Computational Science 🔄 (in progress)
 Year 3  ░░░░░░░░░░░░░░░░░░░░  Algorithms, Systems, AI/ML 📅
 Year 4  ░░░░░░░░░░░░░░░░░░░░  Capstone, Specialization 📅
 ```
